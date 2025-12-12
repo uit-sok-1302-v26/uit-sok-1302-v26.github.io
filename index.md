@@ -1,20 +1,21 @@
 {% include navbar.html %}  {% include top-box.html %}
 
 
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
+## Velkommen til emnet SOK-1302 Spillteori og programmering
 
+Emnet gir en innføring i strategisk atferd, med fokus på hvordan rasjonelle aktører tar beslutninger i samspill med andre. Spillteori er et verktøy for å undersøke hvordan aktører handler når deres suksess er avhengig av både egne valg, valgene til andre aktører og egenskapene til en gitt strategisk situasjon. Gjennom emnet lærer studentene å bruke både matematisk analyse og programmering for å forstå og løse spillteoretiske problemstillinger. Dette gir studentene verktøy til å modellere og analysere komplekse beslutningssituasjoner, med anvendelser innen økonomi, politikk og andre felt.
 
 ## Kursplan  
 
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}   
+- [Forelesningsplan](forelesningsplan.html)
+- [Seminarplan](seminarplan.html)
+- [Innleveringsplan](innleveringer.html)
 
 
-[Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
+[Timeplan]([https://timeplan.uit.no/](https://tp.educloud.no/uit/app/schedule?semester=26v&scheduleType=course&filterOpen=true&summary=true&tab=calendar&course=SOK-1302%C2%A41)) på timeplan.uit.no
 
 
 ## Kursbeskrivelse 
@@ -24,8 +25,8 @@ Kurset består av ulike interessante tema
 
 
 ## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
+- [Eirik Eriksen Heen](https://uit.no/ansatte/eirik.e.heen) (fagansvarlig)
+- [Chris Rune Andersen](https://en.uit.no/ansatte/chris.andersen)
 
 
 
@@ -33,14 +34,30 @@ Kurset består av ulike interessante tema
 
 For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
 
-
 ## Pensum  
 
-### Pensum til forelesningene
+Emnet har gratis og digitalt tilgjengelig pensum.
 
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
+Hovedlitteraturen er:
 
+Osborne, Martin J.
+An Introduction to Game Theory. Oxford University Press.
 
+Kapittel 1–6 er gjort fritt tilgjengelige av forfatteren selv og kan lastes ned fra Osbornes nettside:
+https://www.economics.utoronto.ca/osborne/igt/index.html
+
+I tillegg brukes kapittel 14 (Repeated Games) som del av pensum.
+Dette kapitlet deles ut til studentene i emnet.
+
+I henhold til åndsverkloven (§ 43 og § 44) er det tillatt å gjøre tilgjengelig enkeltkapitler fra en fagbok til bruk i undervisning, så lenge bruken er begrenset, ikke-kommersiell og knyttet til et konkret emne.
+
+Distribusjonen av kapittel 14 skjer innenfor disse rammene.
+
+For studenter som ønsker hele boken i trykt format, er An Introduction to Game Theory også tilgjengelig for kjøp hos Akademika på campus.
+
+Dette innebærer at hele pensumet i emnet er tilgjengelig uten kostnad for studentene, samtidig som det er mulig å benytte trykt lærebok for de som foretrekker det.
+
+Link til [Leganto]([https://bibsys-c.alma.exlibrisgroup.com/leganto/](https://bibsys-c.alma.exlibrisgroup.com/leganto/nui/lists/14238781360002205)){:target="blank"}  
 
 
 ## Kunngjøringer  
@@ -50,7 +67,7 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
+Emnet har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
 
 Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
 
