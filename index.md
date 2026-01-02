@@ -10,18 +10,11 @@ Emnet gir en innføring i strategisk atferd, med fokus på hvordan rasjonelle ak
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Forelesningsplan](forelesningsplan.html)
-- [Seminarplan](seminarplan.html)
+- [Undervisningsplan](forelesningsplan.html)
 - [Innleveringsplan](innleveringer.html)
-
 
 [Timeplan]([https://timeplan.uit.no/](https://tp.educloud.no/uit/app/schedule?semester=26v&scheduleType=course&filterOpen=true&summary=true&tab=calendar&course=SOK-1302%C2%A41)) på timeplan.uit.no
 
-
-## Emnebeskrivelse 
-
-
-Emnet består av ulike interessante tema  
 
 
 ## Faglærerinfo  
@@ -69,7 +62,8 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-Emnet har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
+Emnet har skriftlig skoleeksamen som gjennomføres i wiseflow. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
 
 Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
 
+Eksamen blir avholdt 20. Mai 09:00-13:00. Mer info om eksamen kommer nærmere eksamensdatoen.
