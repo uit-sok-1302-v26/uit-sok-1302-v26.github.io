@@ -5,11 +5,11 @@
 
 Emnet gir en innføring i strategisk atferd, med fokus på hvordan rasjonelle aktører tar beslutninger i samspill med andre. Spillteori er et verktøy for å undersøke hvordan aktører handler når deres suksess er avhengig av både egne valg, valgene til andre aktører og egenskapene til en gitt strategisk situasjon. Gjennom emnet lærer studentene å bruke både matematisk analyse og programmering for å forstå og løse spillteoretiske problemstillinger. Dette gir studentene verktøy til å modellere og analysere komplekse beslutningssituasjoner, med anvendelser innen økonomi, politikk og andre felt.
 
-## Kursplan  
+## Emneplan  
 
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
-
+**Første forelesning 21.01.26 12:15-14:00 UB 132**
 - [Forelesningsplan](forelesningsplan.html)
 - [Seminarplan](seminarplan.html)
 - [Innleveringsplan](innleveringer.html)
@@ -18,10 +18,10 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 [Timeplan]([https://timeplan.uit.no/](https://tp.educloud.no/uit/app/schedule?semester=26v&scheduleType=course&filterOpen=true&summary=true&tab=calendar&course=SOK-1302%C2%A41)) på timeplan.uit.no
 
 
-## Kursbeskrivelse 
+## Emnebeskrivelse 
 
 
-Kurset består av ulike interessante tema  
+Emnet består av ulike interessante tema  
 
 
 ## Faglærerinfo  
