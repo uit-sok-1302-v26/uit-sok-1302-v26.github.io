@@ -9,7 +9,7 @@ Emnet gir en innføring i strategisk atferd, med fokus på hvordan rasjonelle ak
 
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
-**Første forelesning 21.01.26 12:15-14:00 UB 132**
+
 - [Forelesningsplan](forelesningsplan.html)
 - [Seminarplan](seminarplan.html)
 - [Innleveringsplan](innleveringer.html)
