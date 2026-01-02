@@ -1,19 +1,16 @@
 {% include navbar.html %}{% include top-box.html %}
 # Forelesningsplan  
 
-**Informasjonsmøte** om sok-xxxx finner sted i xx.xx.xx kl xx:xx    
 
+*Ved avvik fra andre timeplaner ta kontakt med fagansvarlig*
 
 ## Eksempel på tabell for forelesningsplan
 
-| Tid            | Sted            | Tema               |
-|----------------|-----------------|--------------------|
-|xx.xx  xx:xx    |Tromsø           |git                 |
-|xx.xx  xx:xx    |Tromsø           |python              |
-|xx.xx  xx:xx    |Tromsø           |R                   |
-|xx.xx  xx:xx    |Tromsø           |Samfunnsøkonomi     |
-   
-
+| Tid                    | Sted            | Kapittel     | Link         |
+|------------------------|-----------------|--------------|--------------|
+|21.jan  12:15 - 14:00   |UB 132 Aud., UB  |1             |              |
+|28.jan  12:15 - 14:00   |UB 132 Aud., UB  |2             |              |
+|04.feb  12:15 - 14:00   |UB 132 Aud., UB  |2             |              |
 
 
 
