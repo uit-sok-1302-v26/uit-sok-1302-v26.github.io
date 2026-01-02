@@ -29,31 +29,15 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ## Pensum  
 
-Emnet har gratis og digitalt tilgjengelig pensum.
+Hovedlitteraturen er: **Osborne, Martin J. An Introduction to Game Theory. Oxford University Press.** Kapittel: 1-6 & 14.
 
-Hovedlitteraturen er:
+Det er mulig å kjøpe boken, men kapitlene som inngår i pensum gjøres tilgjengelige **gratis** for studentene.. Kapittel 1–6 er gjort fritt tilgjengelige av forfatteren selv og kan lastes ned fra Osbornes [nettside](https://www.economics.utoronto.ca/osborne/igt/index.html). I tillegg brukes kapittel 14 (Repeated Games) som del av pensum. 
 
-Osborne, Martin J.
-An Introduction to Game Theory. Oxford University Press.
+I henhold til åndsverkloven (§ 43 og § 44) er det tillatt å gjøre enkeltkapitler fra en fagbok tilgjengelig til undervisningsbruk, så lenge bruken er begrenset, ikke-kommersiell og knyttet til et konkret emne. Kapittel 14 deles derfor ut til studentene i emnet. Samlet pensum er tilgjengelig på Canvas og kan lastes ned [her](https://uit.instructure.com/courses/41522/files/folder/Pensum)
 
-Kapittel 1–6 er gjort fritt tilgjengelige av forfatteren selv og kan lastes ned fra Osbornes nettside:
-https://www.economics.utoronto.ca/osborne/igt/index.html
-
-I tillegg brukes kapittel 14 (Repeated Games) som del av pensum.
-Dette kapitlet deles ut til studentene i emnet.
-
-I henhold til åndsverkloven (§ 43 og § 44) er det tillatt å gjøre tilgjengelig enkeltkapitler fra en fagbok til bruk i undervisning, så lenge bruken er begrenset, ikke-kommersiell og knyttet til et konkret emne.
-
-Distribusjonen av kapittel 14 skjer innenfor disse rammene.
-
-For studenter som ønsker hele boken i trykt format, er An Introduction to Game Theory også tilgjengelig for kjøp hos Akademika på campus.
-
-Dette innebærer at hele pensumet i emnet er tilgjengelig uten kostnad for studentene, samtidig som det er mulig å benytte trykt lærebok for de som foretrekker det.
+For studenter som ønsker hele boken i trykt format, er An Introduction to Game Theory også tilgjengelig for kjøp hos Akademika på campus. Dette innebærer at hele pensum i emnet er tilgjengelig uten kostnad, samtidig som det finnes et tilbud for dem som foretrekker en trykt lærebok.
 
 Link til [Leganto]([https://bibsys-c.alma.exlibrisgroup.com/leganto/](https://bibsys-c.alma.exlibrisgroup.com/leganto/nui/lists/14238781360002205)){:target="blank"} 
-
-Dere kan laste ned pensum på canvas siden [her](https://uit.instructure.com/courses/39451/files/folder/Pensum)
-
 
 ## Kunngjøringer  
 
