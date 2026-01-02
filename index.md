@@ -57,7 +57,9 @@ For studenter som ønsker hele boken i trykt format, er An Introduction to Game 
 
 Dette innebærer at hele pensumet i emnet er tilgjengelig uten kostnad for studentene, samtidig som det er mulig å benytte trykt lærebok for de som foretrekker det.
 
-Link til [Leganto]([https://bibsys-c.alma.exlibrisgroup.com/leganto/](https://bibsys-c.alma.exlibrisgroup.com/leganto/nui/lists/14238781360002205)){:target="blank"}  
+Link til [Leganto]([https://bibsys-c.alma.exlibrisgroup.com/leganto/](https://bibsys-c.alma.exlibrisgroup.com/leganto/nui/lists/14238781360002205)){:target="blank"} 
+
+Dere kan laste ned pensum på canvas siden [her](https://uit.instructure.com/courses/39451/files/folder/Pensum)
 
 
 ## Kunngjøringer  
