@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-# Forelesningsplan  
+# Undervisningsplan  
 
 
 **Ved avvik fra andre timeplaner ta kontakt med fagansvarlig**
