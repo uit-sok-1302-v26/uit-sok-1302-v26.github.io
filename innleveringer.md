@@ -1,18 +1,17 @@
 {% include navbar.html %}{% include top-box.html %}
-# Sok-xxxx Mikroøkonomi   
 
 ## Innleveringer 
 
-- Arbeidskrav er obligatorisk, men inngår ikke i mappen.
-- Mappeinnleveringer er obligatoriske, og danner grunnlag for karakter A-F på kurset.
-- Skriftlige mappeoppgaver leveres i [Wiseflow](https://europe.wiseflow.net/participant/){:target="blank"}. 
+Emnet har 2 arbeidskrav som må være godkjent for å kunne avlegge eksamen.
+**Mer info kommer**
+
 
 
 | Type oppgave                       | Innleveringsfrist | Ressurser |
 |------------------------------------|-------------------|-----------|
-|Mappeoppgave 1                      |  xx.xx            | kommer    |
-|Arbeidskrav 1                       | Uke x/x           | kommer    |
-|Mappeoppgave 2                      | xx.xx kl xx:xx    | kommer    |
+|Arbeidskrav 1                    |  xx.xx            | kommer    |
+|Arbeidskrav 2                       | Uke x/x           | kommer    |
+
 
 
 Oppgavene kan løses i grupper på maksimalt 3.
