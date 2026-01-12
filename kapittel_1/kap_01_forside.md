@@ -6,14 +6,13 @@ Tre hovedpoenger fra kapittelet:
 
 1. Spillteori er modellbasert
     -  Modeller er forenklinger, ikke beskrivelser av hele virkeligheten
-  -  De er verktøy for å tenke klart, ikke fasitsvar
+    -  De er verktøy for å tenke klart, ikke fasitsvar
 2. Rasjonelle valg ≠ egoistiske valg
-  -  Rasjonalitet handler om konsistens, ikke motiv
-  -  Preferanser kan være altruistiske, moralske eller sosiale
+    - Rasjonalitet handler om konsistens, ikke motiv
+    - Preferanser kan være altruistiske, moralske eller sosiale
 3. Interaksjon endrer alt
-  -  Når andre aktørers valg påvirker dine utfall, holder ikke vanlig beslutningsteori
-  -  Dette leder til spill, strategier og likevekter (kommer i kapittel 2)
-
+    - Når andre aktørers valg påvirker dine utfall, holder ikke vanlig beslutningsteori
+    - Dette leder til spill, strategier og likevekter (kommer i kapittel 2)
 
 ## Externe videoer
 
