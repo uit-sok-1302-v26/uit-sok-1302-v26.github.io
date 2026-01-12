@@ -1,7 +1,18 @@
 # Kapittel 1: Introduksjon til spillteori
 
-Dette kapittelet gir en introduksjon til spilleteori som analyseverktøy for situasjoner der flere beslutningstakere påvirker hverandre. Vi ser på hvordan rasjonelle aktører tar valg gitt egne preferanser, og hvorfor strategisk samspill skiller seg fundamentalt fra individuelle beslutningsproblemer. Kapittelet legger grunnlaget for resten av emnet ved å introdusere sentrale begreper, modeller og tankesett som brukes til å analysere økonomiske, politiske og sosiale interaksjoner.
+Spillteori er et analytisk rammeverk for å studere situasjoner der to eller flere rasjonelle aktører tar valg, og der utfallet for hver aktør avhenger av kombinasjonen av alle aktørenes valg. 
 
+Tre hovedpoenger fra kapittelet:
+
+1. Spillteori er modellbasert
+  -  Modeller er forenklinger, ikke beskrivelser av hele virkeligheten
+  -  De er verktøy for å tenke klart, ikke fasitsvar
+2. Rasjonelle valg ≠ egoistiske valg
+  -  Rasjonalitet handler om konsistens, ikke motiv
+  -  Preferanser kan være altruistiske, moralske eller sosiale
+3. Interaksjon endrer alt
+  -  Når andre aktørers valg påvirker dine utfall, holder ikke vanlig beslutningsteori
+  -  Dette leder til spill, strategier og likevekter (kommer i kapittel 2)
 
 
 ## Externe videoer
