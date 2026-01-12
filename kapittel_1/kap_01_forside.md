@@ -5,7 +5,7 @@ Spillteori er et analytisk rammeverk for å studere situasjoner der to eller fle
 Tre hovedpoenger fra kapittelet:
 
 1. Spillteori er modellbasert
-  -  Modeller er forenklinger, ikke beskrivelser av hele virkeligheten
+    -  Modeller er forenklinger, ikke beskrivelser av hele virkeligheten
   -  De er verktøy for å tenke klart, ikke fasitsvar
 2. Rasjonelle valg ≠ egoistiske valg
   -  Rasjonalitet handler om konsistens, ikke motiv
