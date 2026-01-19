@@ -10,16 +10,15 @@ Siden dette emnet ikke har vært undervist før kan det komme endringer i hvor m
 
 | Tid                    | Sted            | Kapittel     | Link         |
 |------------------------|-----------------|--------------|--------------|
-|21.jan  12:15 - 14:00   |UB 132 Aud., UB  |1             |              |
-|28.jan  12:15 - 14:00   |UB 132 Aud., UB  |2             |              |
+|28.jan  12:15 - 14:00   |UB 132 Aud., UB  |1             |              |
 |04.feb  12:15 - 14:00   |UB 132 Aud., UB  |2             |              |
-|11.feb  12:15 - 14:00   |UB 132 Aud., UB  |3             |              |
+|11.feb  12:15 - 14:00   |UB 132 Aud., UB  |2             |              |
 |18.feb  12:15 - 14:00   |UB 132 Aud., UB  |3             |              |
-|25.feb  12:15 - 14:00   |UB 132 Aud., UB  |4             |              |
-|04.mar  12:15 - 14:00   |UB 132 Aud., UB  |5             |              |
-|11.mar  12:15 - 14:00   |UB 132 Aud., UB  |6             |              |
-|18.mar  12:15 - 14:00   |UB 132 Aud., UB  |14            |              |
-|15.apr  12:15 - 14:00   |UB 132 Aud., UB  |              |              |
+|25.feb  12:15 - 14:00   |UB 132 Aud., UB  |3             |              |
+|04.mar  12:15 - 14:00   |UB 132 Aud., UB  |4             |              |
+|11.mar  12:15 - 14:00   |UB 132 Aud., UB  |5             |              |
+|18.mar  12:15 - 14:00   |UB 132 Aud., UB  |6             |              |
+|15.apr  12:15 - 14:00   |UB 132 Aud., UB  |14            |              |
 |22.apr  12:15 - 14:00   |UB 132 Aud., UB  |              |              |
 |29.apr  12:15 - 14:00   |UB 132 Aud., UB  |              |              |
 |20.mai  12:15 - 14:00   |                 | **Eksamen**  |              |
