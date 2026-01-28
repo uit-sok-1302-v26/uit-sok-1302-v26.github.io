@@ -14,9 +14,11 @@ Tre hovedpoenger fra kapittelet:
     - Når andre aktørers valg påvirker dine utfall, holder ikke vanlig beslutningsteori
     - Dette leder til spill, strategier og likevekter (kommer i kapittel 2)
 
-## Externe videoer
+## Eksterne videoer
 
 [Game Theory 101](https://www.youtube.com/watch?v=NSVmOC_5zrE&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=1)
+[SciShow](https://www.youtube.com/watch?v=MHS-htjGgSY)
+
 
 ## Podcast
 
