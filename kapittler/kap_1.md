@@ -16,8 +16,8 @@ Tre hovedpoenger fra kapittelet:
 
 ## Eksterne videoer
 
-[Game Theory 101](https://www.youtube.com/watch?v=NSVmOC_5zrE&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=1)
-[SciShow](https://www.youtube.com/watch?v=MHS-htjGgSY)
+- [Game Theory 101](https://www.youtube.com/watch?v=NSVmOC_5zrE&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=1)
+- [SciShow](https://www.youtube.com/watch?v=MHS-htjGgSY)
 
 
 ## Podcast
