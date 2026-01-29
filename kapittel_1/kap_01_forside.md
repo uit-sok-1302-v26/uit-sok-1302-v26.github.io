@@ -23,3 +23,7 @@ Tre hovedpoenger fra kapittelet:
 ## Podcast
 
 [KI generert podkast av kapittel 1](https://uit.instructure.com/courses/41522/files/folder/Podcast?preview=3991618)
+
+## Resurser
+
+[Forelesnings](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=3991744)
