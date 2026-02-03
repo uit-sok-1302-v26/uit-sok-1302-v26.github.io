@@ -24,7 +24,7 @@ Denne SciShow-episoden setter spillteori inn i en bredere kontekst ved å vise e
 
 ## Podcast
 
-[KI generert podkast av kapittel 1](https://uit.instructure.com/courses/41522/files/folder/Podcast?preview=3991618)
+[KI generert podkast av kapittel 1](https://uit.instructure.com/courses/41522/files/folder/Podcast?preview=3997871)
 
 ## Forlesningslides
 
