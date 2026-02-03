@@ -1,3 +1,5 @@
+{% include navbar.html %}{% include top-box.html %}
+
 # Kapittel 2: Nash-likevekt – teori
 
 Dette kapittelet introduserer den sentrale modellen for strategisk samhandling: strategiske spill, og det viktigste løsningsbegrepet i spillteori, Nash-likevekt. Kapittelet viser hvordan strategiske situasjoner kan representeres formelt ved hjelp av spill i normalform, og hvordan aktørenes insentiver avhenger av andres valg. Gjennom klassiske eksempler som fangens dilemma, stag hunt, coordination games og matching pennies illustreres ulike typer konflikter og samarbeidsproblemer, samt hvordan Nash-likevekt fanger stabile utfall der ingen enkeltaktør har insentiv til å avvike. Kapittelet gir dermed et analytisk rammeverk for å forstå når samarbeid bryter sammen, hvorfor dårlige utfall kan være stabile, og hvordan flere likevekter kan eksistere samtidig i samme spill.
