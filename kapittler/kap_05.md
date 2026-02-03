@@ -1,3 +1,5 @@
+{% include navbar.html %}{% include top-box.html %}
+
 # Kapittel 5: Sekvensielle spill og delspillperfekt likevekt
 
 Dette kapittelet introduserer sekvensielle spill med perfekt informasjon og viser hvordan strategisk samhandling endres når aktører handler etter hverandre, og ikke samtidig. I motsetning til strategiske spill beskriver denne modellen eksplisitt rekkefølgen på trekk, hvilke valg som er tilgjengelige til ulike tidspunkt, og hvordan spillere kan endre atferd etter hvert som spillet utvikler seg. Kapittelet forklarer hvordan slike situasjoner modelleres ved hjelp av spilltrær, begrepet strategi som en fullstendig handlingsplan, og hvordan utfallet bestemmes av strategiprofilen. Videre vises det hvorfor Nash-likevekt alene ofte gir lite tilfredsstillende prediksjoner i sekvensielle spill, og hvorfor begrepet delspillperfekt likevekt er nødvendig for å utelukke ikke-troverdige trusler. Kapittelet introduserer baklengs induksjon som et sentralt verktøy for å finne delspillperfekte likevekter i spill med endelig horisont, og legger dermed grunnlaget for analyser av markedsadferd, forhandlinger og strategisk forpliktelse i senere kapitler.
