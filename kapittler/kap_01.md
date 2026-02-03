@@ -1,18 +1,15 @@
 # Kapittel 1: Introduksjon til spillteori
 
-Spillteori er et analytisk rammeverk for å studere situasjoner der to eller flere rasjonelle aktører tar valg, og der utfallet for hver aktør avhenger av kombinasjonen av alle aktørenes valg. 
+Dette kapittelet gir en overordnet introduksjon til spillteori som fagfelt og forklarer hva slags typer situasjoner spillteori er ment å analysere. Hovedfokuset er på strategisk samhandling, der utfallet avhenger av valg gjort av flere beslutningstakere samtidig, og på hvordan slike situasjoner kan forstås ved hjelp av enkle og presise modeller. Kapittelet diskuterer også hva vi mener med rasjonell atferd, hvordan preferanser kan representeres ved payoff- eller nyttefunksjoner, og hvorfor spillteoretiske modeller ofte er bevisst enkle abstraksjoner av virkeligheten. Målet er ikke å gi ferdige svar på hvordan mennesker faktisk oppfører seg, men å utvikle et analytisk rammeverk som gjør det mulig å forstå insentiver, strategiske valg og stabile utfall i økonomiske, politiske og sosiale situasjoner.
 
-Tre hovedpoenger fra kapittelet:
+## Læringsmål ved kapittelet
 
-1. Spillteori er modellbasert
-    -  Modeller er forenklinger, ikke beskrivelser av hele virkeligheten
-    -  De er verktøy for å tenke klart, ikke fasitsvar
-2. Rasjonelle valg ≠ egoistiske valg
-    - Rasjonalitet handler om konsistens, ikke motiv
-    - Preferanser kan være altruistiske, moralske eller sosiale
-3. Interaksjon endrer alt
-    - Når andre aktørers valg påvirker dine utfall, holder ikke vanlig beslutningsteori
-    - Dette leder til spill, strategier og likevekter (kommer i kapittel 2)
+- Forklare hva spillteori er, og hvilke typer situasjoner spillteori brukes til å analysere
+- Forstå hva som menes med strategisk samhandling mellom rasjonelle aktører
+- Forklare hva en modell er, og hvorfor spillteoretiske modeller er forenklinger av virkeligheten
+- Beskrive hovedideen bak teorien om rasjonelle valg
+- Forstå sammenhengen mellom preferanser, handlinger og payoff- (nytte-)funksjoner
+- Forklare hvorfor payoff-verdier bare gir ordinal, ikke kardinal, informasjon
 
 ## Eksterne videoer
 
