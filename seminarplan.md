@@ -1,8 +1,9 @@
 {% include navbar.html %}{% include top-box.html %}
-# SOK-xxxx Kurs    
+# SOK-1302 Kurs    
+
+Siden emnet har så mange studenter blir det gjennomført 2 seminarer per tema.
 
 ## Seminarplan   
-
 
 
 |Uke | Seminarnr. | Tema                        |  Oppgaver og ressurser  |
