@@ -19,9 +19,9 @@ Dette kapittelet introduserer den sentrale modellen for strategisk samhandling: 
 
 ## Podcast
 
-[KI generert podkast av kapittel 2](https://uit.instructure.com/courses/41522/files/folder/Podcast?preview=3997871)
+[KI generert podkast av kapittel 2](https://uit.instructure.com/courses/41522/files/folder/Podcast?preview=3997871){:target="blank"}
 
 ## Forlesningslides
 
-[Forelesnings del 1](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=3997891)
+[Forelesnings del 1](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=3997891){:target="blank"}
 
