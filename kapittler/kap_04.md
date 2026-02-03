@@ -18,19 +18,6 @@ Dette kapittelet utvider Nash-likevekt-begrepet ved å tillate at spillere rando
 
 ## Videoressurser
 
-[Blandede strategier – hvorfor randomisering kan være rasjonelt](https://www.youtube.com/watch?v=hSYXkDnCpHM&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=16)
-
-Videoen forklarer hvorfor noen spill ikke har likevekter i rene strategier, og hvordan randomisering mellom handlinger kan være en rasjonell og stabil løsning.
-
-[Blandet strategi-Nash-likevekt](https://www.youtube.com/watch?v=pyLKkN5HpDY&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=17)
-
-Denne videoen viser hvordan Nash-likevekt defineres når spillere bruker sannsynlighetsfordelinger over handlinger, og hvordan slike likevekter identifiseres i praksis.
-
-[Indifferensbetingelsen i blandede strategier](https://www.youtube.com/watch?v=LSHa1pcy6v8&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=18)
-
-Videoen forklarer hvorfor spillere i en blandet strategi-likevekt må være indifferente mellom de handlingene som spilles med positiv sannsynlighet, og hvordan dette brukes til å løse spill analytisk.
-
-
 ## Podcast
 
 
