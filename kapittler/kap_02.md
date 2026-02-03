@@ -15,13 +15,37 @@ Dette kapittelet introduserer den sentrale modellen for strategisk samhandling: 
 
 ## Videoressurser
 
+[Fangens dilemma – samarbeid og konflikt](https://www.youtube.com/watch?v=DanTKx1FLY8&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=2)
+
+Videoen forklarer fangens dilemma som et grunnleggende eksempel på et strategisk spill der individuell rasjonalitet leder til et kollektivt dårlig utfall, og viser hvorfor samarbeid kan bryte sammen selv når det er gjensidig ønskelig.
+
+[Iterativ eliminasjon av dominerte strategier](https://www.youtube.com/watch?v=O8T9spKHVWQ&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=3)
+
+Denne videoen viser hvordan man kan forenkle et spill ved systematisk å fjerne strategier som aldri er rasjonelle å spille, og hvordan dette kan bidra til å finne eller avgrense likevekter.
+
+[Stag hunt – koordinasjon og risiko](https://www.youtube.com/watch?v=stzPcqmyhI4&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=4)
+
+Videoen forklarer stag hunt-spillet og illustrerer hvordan strategiske situasjoner kan ha flere Nash-likevekter, der noen er bedre for alle, men samtidig mer risikable å oppnå.
+
+[Nash-likevekt – stabile utfall i strategiske spill](https://www.youtube.com/watch?v=5TcYV6CZ7mI&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=5)
+
+Denne videoen gir en intuitiv forklaring av Nash-likevekt som et stabilt utfall der ingen aktør har insentiv til å avvike ensidig, og knytter begrepet til konkrete spill-eksempler.
+
+[Beste respons – hvordan spillere tenker strategisk](https://www.youtube.com/watch?v=VuDutyTs_r8&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=6)
+
+Videoen introduserer begrepet beste respons og viser hvordan Nash-likevekter kan identifiseres ved å analysere spillernes optimale valg gitt andres handlinger.
+
+[Svakt dominerte strategier og rasjonell atferd](https://www.youtube.com/watch?v=OlV190noZOw&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=13)
+
+Denne videoen diskuterer forskjellen mellom strengt og svakt dominerte strategier, og forklarer hvorfor eliminering av svakt dominerte strategier krever større forsiktighet i analysen.
+
 
 
 ## Podcast
 
-[KI generert podkast av kapittel 2](https://uit.instructure.com/courses/41522/files/folder/Podcast?preview=3997871){:target="blank"}
+[KI generert podkast av kapittel 2](https://uit.instructure.com/courses/41522/files/folder/Podcast?preview=3997871)
 
 ## Forlesningslides
 
-[Forelesnings del 1](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=3997891){:target="blank"}
+[Forelesnings del 1](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=3997891)
 
