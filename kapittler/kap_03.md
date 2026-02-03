@@ -10,10 +10,10 @@
 
 ## Podcast
 
-[KI generert podkast av kapittel 1]()
+[KI generert podkast av kapittel 1](){:target="blank"}
 
 ## Forlesningslides
 
-[Forelesnings]()
+[Forelesnings](){:target="blank"}
 
 
