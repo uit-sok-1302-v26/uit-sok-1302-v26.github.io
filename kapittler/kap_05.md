@@ -17,6 +17,17 @@ Dette kapittelet introduserer sekvensielle spill med perfekt informasjon og vise
 
 ## Videoressurser
 
+[Sekvensielle spill og spilltrær](https://www.youtube.com/watch?v=hSYXkDnCpHM&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=16)
+
+Videoen introduserer sekvensielle spill med perfekt informasjon og viser hvordan strategiske situasjoner kan representeres ved hjelp av spilltrær.
+
+[Baklengs induksjon](https://www.youtube.com/watch?v=pyLKkN5HpDY&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=17)
+
+Denne videoen forklarer baklengs induksjon som et metodeverktøy for å analysere sekvensielle spill, og viser hvordan rasjonelle valg gjøres steg for steg fra slutten av spillet.
+
+[Delspillperfekt likevekt](https://www.youtube.com/watch?v=LSHa1pcy6v8&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=18)
+
+Videoen introduserer begrepet delspillperfekt likevekt og forklarer hvorfor dette er et strengere og mer treffende likevektsbegrep enn Nash-likevekt i sekvensielle spill.
 
 ## Podcast
 
