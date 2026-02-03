@@ -10,7 +10,7 @@ Siden dette emnet ikke har vært undervist før kan det komme endringer i hvor m
 
 | Tid                    | Sted            | Kapittel     | Link         |
 |------------------------|-----------------|--------------|--------------|
-|28.jan  12:15 - 14:00   |UB 132 Aud., UB  |1             | [Kap 1](kap_01.md)             |
+|28.jan  12:15 - 14:00   |UB 132 Aud., UB  |1             | [Kap 1](kapittler/kap_01.md)             |
 |04.feb  12:15 - 14:00   |UB 132 Aud., UB  |2             | [Kap 2](kapittler/kap_02.md)             |
 |11.feb  12:15 - 14:00   |UB 132 Aud., UB  |2             | [Kap 2](kapittler/kap_02.md)              |
 |18.feb  12:15 - 14:00   |UB 132 Aud., UB  |3             | [Kap 3](kapittler/kap_03.md)             |
