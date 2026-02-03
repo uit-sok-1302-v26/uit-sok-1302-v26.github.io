@@ -1,108 +1,34 @@
-# Kapittel 2: Nash-likevekt og strategiske spill
+# Kapittel 2: Nash-likevekt – teori
 
-I dette kapittelet går vi fra **intuitiv erfaring med spill** til et formelt begrep for **stabile utfall** i strategiske situasjoner: *Nash-likevekt*.
+Dette kapittelet introduserer den sentrale modellen for strategisk samhandling: strategiske spill, og det viktigste løsningsbegrepet i spillteori, Nash-likevekt. Kapittelet viser hvordan strategiske situasjoner kan representeres formelt ved hjelp av spill i normalform, og hvordan aktørenes insentiver avhenger av andres valg. Gjennom klassiske eksempler som fangens dilemma, stag hunt, coordination games og matching pennies illustreres ulike typer konflikter og samarbeidsproblemer, samt hvordan Nash-likevekt fanger stabile utfall der ingen enkeltaktør har insentiv til å avvike. Kapittelet gir dermed et analytisk rammeverk for å forstå når samarbeid bryter sammen, hvorfor dårlige utfall kan være stabile, og hvordan flere likevekter kan eksistere samtidig i samme spill.
 
-Studentene har allerede spilt spill uten teori. Nå gir vi dem språket og verktøyene.
+## Dette skal du kunne etter kapittelet
 
-
-## Strategiske spill
-
-Et strategisk spill består av:
-- et sett med **spillere**
-- et sett med **handlinger** for hver spiller
-- **preferanser** over mulige utfall
-
-Kjennetegn:
-- Valg tas **samtidig**
-- Ingen spiller observerer andres valg før de velger selv
-- Utfallet bestemmes av **kombinasjonen av alles valg**
+- Forklare hva et strategisk spill er og hvordan det representeres i normalform
+- Forklare hva som menes med en Nash-likevekt
+- Finne Nash-likevekter i enkle spill
+- Analysere klassiske spill som fangens dilemma, stag hunt, koordinasjonsspill og matching pennies
+- Bruke begrepene beste respons og dominante/dominerte strategier
+- Forklare hvorfor noen spill har én, flere eller ingen Nash-likevekter
+- Forstå forskjellen mellom stabile likevekter og samfunnsmessig ønskelige utfall
 
 
-## Klassiske eksempler på strategiske spill
+## Videoressurser
 
-Vi bruker noen standardspill for å illustrere ulike typer strategisk samspill:
+[Game Theory 101](https://www.youtube.com/watch?v=NSVmOC_5zrE&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=1)
 
-- **Fangenes dilemma**
-  - Samarbeid er kollektivt best
-  - Individuelle insentiver trekker i motsatt retning
-- **Stag Hunt**
-  - Koordinering gir høy gevinst
-  - Risiko for å bli stående alene
-- **Battle of the Sexes**
-  - Ønske om koordinering
-  - Uenighet om hvilket utfall som er best
-- **Matching Pennies**
-  - Ren konflikt
-  - Ingen stabile rene strategier
-
-Disse spillene dukker opp i økonomi, politikk og samfunnsanalyse.
+Denne videoen gir en grunnleggende introduksjon til spillteori ved å forklare hva et strategisk spill er og hvordan man tenker rundt valg og payoff når flere aktører samhandler. Den legger særlig vekt på hvordan spillteori formaliserer strategiske situasjoner for å analysere rasjonelle beslutninger.
 
 
-## Hva mener vi med et stabilt utfall?
+[SciShow](https://www.youtube.com/watch?v=MHS-htjGgSY)
 
-Et sentralt spørsmål i spillteori er:
+Denne SciShow-episoden setter spillteori inn i en bredere kontekst ved å vise eksempler fra virkeligheten der strategisk tenkning påvirker alt fra dyreatferd til økonomiske beslutninger, og forklarer hvorfor slike modeller kan være nyttige for å forstå komplekse valg.
 
-> Hvis dette spillet spilles igjen og igjen –  
-> **hvilke utfall vil vedvare over tid?**
+## Podcast
 
-Vi er ikke ute etter:
-- det mest rettferdige utfallet
-- det mest effektive utfallet
-- det sosialt beste utfallet
+[KI generert podkast av kapittel 1](https://uit.instructure.com/courses/41522/files/folder/Podcast?preview=3997871)
 
-Vi er ute etter:
-- utfall der **ingen enkeltaktør har insentiv til å avvike alene**
+## Forlesningslides
 
-
-
-## Nash-likevekt (intuitivt)
-
-Et utfall er en *Nash-likevekt* hvis:
-- hver spiller gjør det beste de kan
-- **gitt hva de andre gjør**
-
-Ingen spiller angrer på sitt valg **så lenge de andre holder fast ved sine valg**.
-
-
-
-## Nash-likevekt (formelt)
-
-Et handlingsprofil er en Nash-likevekt hvis:
-- ingen spiller kan forbedre sitt utfall
-- ved å endre strategi alene
-
-Dette er et minimumskrav til stabilitet i strategiske situasjoner.
-
-
-
-## Viktige poenger om Nash-likevekt
-
-- En Nash-likevekt:
-  - trenger ikke være unik
-  - trenger ikke være effektiv
-  - trenger ikke være sosialt ønskelig
-- Noen spill har:
-  - én Nash-likevekt
-  - flere Nash-likevekter
-  - ingen Nash-likevekter i rene strategier
-
-## Beste responser
-
-Et praktisk verktøy for å finne Nash-likevekter er **beste responser**:
-- Hva er min beste handling gitt den andres valg?
-- Nash-likevekter oppstår der beste responser møtes
-
-Dette gir en systematisk metode for analyse av spill.
-
-
-## Hva skal du kunne etter kapittelet?
-
-Etter kapittel 2 skal du kunne:
-- identifisere strategiske spill
-- forklare hva en Nash-likevekt er
-- finne Nash-likevekter i enkle spill
-- forstå forskjellen mellom stabile og ustabile utfall
-
-Dette danner grunnlaget for resten av kurset.
-
+[Forelesnings](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=3991744)
 
