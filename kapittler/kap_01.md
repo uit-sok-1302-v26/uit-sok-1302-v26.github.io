@@ -1,3 +1,5 @@
+{% include navbar.html %}{% include top-box.html %}
+
 # Kapittel 1: Introduksjon til spillteori
 
 Dette kapittelet gir en overordnet introduksjon til spillteori som fagfelt og forklarer hva slags typer situasjoner spillteori er ment å analysere. Hovedfokuset er på strategisk samhandling, der utfallet avhenger av valg gjort av flere beslutningstakere samtidig, og på hvordan slike situasjoner kan forstås ved hjelp av enkle og presise modeller. Kapittelet diskuterer også hva vi mener med rasjonell atferd, hvordan preferanser kan representeres ved payoff- eller nyttefunksjoner, og hvorfor spillteoretiske modeller ofte er bevisst enkle abstraksjoner av virkeligheten. Målet er ikke å gi ferdige svar på hvordan mennesker faktisk oppfører seg, men å utvikle et analytisk rammeverk som gjør det mulig å forstå insentiver, strategiske valg og stabile utfall i økonomiske, politiske og sosiale situasjoner.
