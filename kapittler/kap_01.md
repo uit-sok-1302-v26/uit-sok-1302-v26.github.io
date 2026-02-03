@@ -13,20 +13,20 @@ Dette kapittelet gir en overordnet introduksjon til spillteori som fagfelt og fo
 
 ## Videoressurser
 
-[Game Theory 101](https://www.youtube.com/watch?v=NSVmOC_5zrE&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=1){:target="blank"}
+[Game Theory 101](https://www.youtube.com/watch?v=NSVmOC_5zrE&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo&index=1)
 
 Denne videoen gir en grunnleggende introduksjon til spillteori ved å forklare hva et strategisk spill er og hvordan man tenker rundt valg og payoff når flere aktører samhandler. Den legger særlig vekt på hvordan spillteori formaliserer strategiske situasjoner for å analysere rasjonelle beslutninger.
 
 
-[SciShow](https://www.youtube.com/watch?v=MHS-htjGgSY){:target="blank"}
+[SciShow](https://www.youtube.com/watch?v=MHS-htjGgSY)
 
 Denne SciShow-episoden setter spillteori inn i en bredere kontekst ved å vise eksempler fra virkeligheten der strategisk tenkning påvirker alt fra dyreatferd til økonomiske beslutninger, og forklarer hvorfor slike modeller kan være nyttige for å forstå komplekse valg.
 
 ## Podcast
 
-[KI generert podkast av kapittel 1](https://uit.instructure.com/courses/41522/files/folder/Podcast?preview=3997871){:target="blank"}
+[KI generert podkast av kapittel 1](https://uit.instructure.com/courses/41522/files/folder/Podcast?preview=3997871)
 
 ## Forlesningslides
 
-[Forelesnings](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=3991744){:target="blank"}
+[Forelesnings](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=3991744)
 
