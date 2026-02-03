@@ -30,3 +30,4 @@ Denne SciShow-episoden setter spillteori inn i en bredere kontekst ved å vise e
 
 [Forelesnings](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=3991744)
 
+root
