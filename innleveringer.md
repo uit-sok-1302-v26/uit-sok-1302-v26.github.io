@@ -34,8 +34,8 @@ Det gis ikke utsettelser på enkeltquizer. Samtidig er systemet robust: hvis der
 |------|----------|------|------------------|
 | Quiz 1 | 1 | Introduksjon til spillteori |  |
 | Quiz 2 | 2 | Nash-likevekt og strategiske spill i normalform |  |
-| Quiz 3 | 3 | Anvendelser: frikonkurranse, monopol, Cournot og Bertrand |  |
-| Quiz 4 | 4 | Blandede strategier og Nash-likevekt |  |
+| Quiz 3 | 4 | Blandede strategier og Nash-likevekt |  |
+| Quiz 4 | 3 | Anvendelser: frikonkurranse, monopol, Cournot og Bertrand |  |
 | Quiz 5 | 5 | Sekvensielle spill og delspillperfekt likevekt |  |
 | Quiz 6 | 6 | Anvendelser av sekvensielle spill og Stackelberg-konkurranse |  |
 | Quiz 7 | 14 | Gjentatte spill og samarbeid |  |
