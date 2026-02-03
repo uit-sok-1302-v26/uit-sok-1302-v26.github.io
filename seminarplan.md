@@ -7,7 +7,7 @@
 
 |Uke | Seminarnr. | Tema                        |  Oppgaver og ressurser  |
 |----|------------|-----------------------------|-------------------------|
-| x  | x          | Tilbud og etterspørsel I    | kommer                  |
-| x  | x          | IS-LM                       | kommer                  |
-| x  | x          | R                           | kommer                  |
-| x  | x          | Python                      | kommer                  |
+| 10  | 2-3 mars          | Normalform spill    | kommer                  |
+| 13  | 23-24 mars          | Marked og sekvensieller spill                       | kommer                  |
+| 17  | 20-21 apris          | Gjentatte spill                           | kommer                  |
+
