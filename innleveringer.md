@@ -6,10 +6,10 @@ For å kunne avlegge eksamen i emnet må **to arbeidskrav** være godkjent. Arbe
 
 Som vi har diskutert tidligere i emnet, handler spillteori ikke bare om å kunne «regne riktig», men om å **forstå strategisk samspill**, tolke modeller og forklare hvorfor likevekter oppstår. Arbeidskravene er derfor tett koblet til både forelesningene og eksamensformen.
 
-| Type oppgave                       | Innleveringsfrist | Ressurser |
-|------------------------------------|-------------------|-----------|
-|Selvrettende Canvas-quiz                  |   Fortløpende frister         | kommer    |
-|Gruppe arbeid                       |       kl. 14:00 26. Mars   | kommer    |
+| Type oppgave                       | Innleveringsfrist |
+|------------------------------------|-------------------|
+|Selvrettende Canvas-quiz                  |   Fortløpende frister         |
+|Gruppe arbeid                       |       kl. 14:00 26. Mars   |
 
 
 ## Selvrettende Canvas-quiz 
@@ -30,7 +30,15 @@ Dere samler poeng gjennom hele semesteret. For å bestå dette arbeidskravet må
 
 Det gis ikke utsettelser på enkeltquizer. Samtidig er systemet robust: hvis dere gjør det svakt på én quiz, kan dette kompenseres gjennom bedre resultater på andre. Dette er bevisst valgt for å redusere stress og oppmuntre til læring fremfor taktisk poengjakt.
 
-
+| Quiz | Kapittel | Tema | Innleveringsfrist |
+|------|----------|------|------------------|
+| Quiz 1 | 1 | Introduksjon til spillteori |  |
+| Quiz 2 | 2 | Nash-likevekt og strategiske spill i normalform |  |
+| Quiz 3 | 3 | Anvendelser: frikonkurranse, monopol, Cournot og Bertrand |  |
+| Quiz 4 | 4 | Blandede strategier og Nash-likevekt |  |
+| Quiz 5 | 5 | Sekvensielle spill og delspillperfekt likevekt |  |
+| Quiz 6 | 6 | Anvendelser av sekvensielle spill og Stackelberg-konkurranse |  |
+| Quiz 7 | 14 | Gjentatte spill og samarbeid |  |
 
 ## Gruppearbeid
 
