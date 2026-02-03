@@ -10,11 +10,9 @@
 
 ## Podcast
 
-[KI generert podkast av kapittel 1]()
+
 
 ## Forlesningslides
-
-[Forelesnings]()
 
 
 
