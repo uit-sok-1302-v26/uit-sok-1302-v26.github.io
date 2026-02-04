@@ -49,5 +49,5 @@ Denne videoen diskuterer forskjellen mellom strengt og svakt dominerte strategie
 
 ## Forlesningslides
 
-[Forelesnings del 1](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=3997891)
+[Forelesnings del 1](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=3999626)
 
