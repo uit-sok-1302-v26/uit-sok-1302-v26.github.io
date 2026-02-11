@@ -32,7 +32,7 @@ Det gis ikke utsettelser på enkeltquizer. Samtidig er systemet robust: hvis der
 
 | Quiz | Kapittel | Tema | Innleveringsfrist |
 |------|----------|------|------------------|
-| Quiz 1 | 1 | Introduksjon til spillteori |  |
+| Quiz 1 | 1 | Introduksjon til spillteori | 14:00 17. feb |
 | Quiz 2 | 2 | Nash-likevekt og strategiske spill i normalform |  |
 | Quiz 3 | 4 | Blandede strategier og Nash-likevekt |  |
 | Quiz 4 | 3 | Anvendelser: frikonkurranse, monopol, Cournot og Bertrand |  |
