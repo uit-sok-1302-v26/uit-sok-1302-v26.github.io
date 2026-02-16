@@ -26,14 +26,14 @@ Hver quiz trekker spørsmål tilfeldig fra en **spørsmålsbank**. Dere får:
 - mulighet til å gjennomføre samme quiz **så mange ganger dere vil** før fristen
 - registrert **beste oppnådde poengsum** som tellende resultat
 
-Dere samler poeng gjennom hele semesteret. For å bestå dette arbeidskravet må dere oppnå **minst 70 % av totalt mulig poeng**.
+Dere samler poeng gjennom hele semesteret gjennom totalt 7 quizer. Den første quizen består av 5 spørsmål, mens de resterende seks quizene består av 10 spørsmål hver. Hvert spørsmål gir 1 poeng, noe som gir totalt 65 mulige poeng. For å bestå arbeidskrav 1 må dere oppnå minst 42 poeng, som tilsvarer omtrent 70 % av totalt mulig poeng.
 
 Det gis ikke utsettelser på enkeltquizer. Samtidig er systemet robust: hvis dere gjør det svakt på én quiz, kan dette kompenseres gjennom bedre resultater på andre. Dette er bevisst valgt for å redusere stress og oppmuntre til læring fremfor taktisk poengjakt.
 
 | Quiz | Kapittel | Tema | Innleveringsfrist |
 |------|----------|------|------------------|
 | Quiz 1 | 1 | Introduksjon til spillteori | 14:00 17. feb |
-| Quiz 2 | 2 | Nash-likevekt og strategiske spill i normalform |  |
+| Quiz 2 | 2 | Nash-likevekt og strategiske spill i normalform | 14:00 27. feb |
 | Quiz 3 | 4 | Blandede strategier og Nash-likevekt |  |
 | Quiz 4 | 3 | Anvendelser: frikonkurranse, monopol, Cournot og Bertrand |  |
 | Quiz 5 | 5 | Sekvensielle spill og delspillperfekt likevekt |  |
