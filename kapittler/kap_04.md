@@ -47,7 +47,7 @@ Denne videoen diskuterer hvordan blandede strategier kan tolkes enten som faktis
 
 
 ## Podcast
-
+[Podkast kapittel 4](https://uit.instructure.com/courses/41522/files/folder/Podcast?preview=4014833)
 
 
 ## Forlesningslides
