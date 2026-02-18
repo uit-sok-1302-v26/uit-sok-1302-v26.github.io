@@ -51,6 +51,6 @@ Denne videoen diskuterer hvordan blandede strategier kan tolkes enten som faktis
 
 
 ## Forlesningslides
-[Forelesning 4](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=4015650)
+[Forelesning 4](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=4015676)
 
 
