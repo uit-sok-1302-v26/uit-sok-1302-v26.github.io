@@ -30,5 +30,5 @@ Denne SciShow-episoden setter spillteori inn i en bredere kontekst ved å vise e
 
 ## Forlesningslides
 
-[Forelesnings](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=3991744)
+[Forelesnings](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=4015676)
 
