@@ -35,6 +35,8 @@ Videoen introduserer begrepet delspillperfekt likevekt og forklarer hvorfor dett
 
 ## Forlesningslides
 
+[Forelesning kapittel 5](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=4025422)
+
 
 
 
