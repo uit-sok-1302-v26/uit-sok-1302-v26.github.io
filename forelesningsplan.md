@@ -15,6 +15,8 @@ Siden dette emnet ikke har vært undervist før kan det komme endringer i hvor m
 |11.feb  12:15 - 14:00   |UB 132 Aud., UB  |2             | Simultane spill og Nash-likevekt  | [Kap 2](kapittler/kap_02.md)              |
 |18.feb  12:15 - 14:00   |UB 132 Aud., UB  |4             | Blandede strategier | [Kap 4](kapittler/kap_04.md)             |
 |25.feb  12:15 - 14:00   |UB 132 Aud., UB  |5             | Sekvensielle spill | [Kap 5](kapittler/kap_05.md)              |
+|02.mar  10:15 - 12:00   |HHT 02.218  | 2 & 4             | Seminargruppe l |            |
+|03.mar  14:15 - 16:00   |HHT 02.119  | 2 & 4             | Seminargruppe 2 |            |
 |04.mar  12:15 - 14:00   |UB 132 Aud., UB  |14            | Gjentatte spill | [Kap 14](kapittler/kap_14.md)            |
 |11.mar  12:15 - 14:00   |UB 132 Aud., UB  |3             | Simultane markeder | [Kap 3](kapittler/kap_03.md)            |
 |18.mar  12:15 - 14:00   |UB 132 Aud., UB  |3             | Simultane markeder | [Kap 3](kapittler/kap_03.md)            |
