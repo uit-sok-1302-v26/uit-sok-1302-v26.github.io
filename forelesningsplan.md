@@ -22,14 +22,15 @@ Chris Rune Andersen (CRA)
 | S01  | 02.mar  10:15 - 12:00  | HHT 02.218  | Kap 2 & 4: Seminar gruppe 1 | CRA        |
 | S01  | 03.mar  14:15 - 16:00  | HHT 02.119  | Kap 2 & 4: Seminar gruppe 2 | CRA        |
 | F06  | 04.mar  12:15 - 14:00  | UB 132 Aud  | [Kap 14: Gjentatte spill](kapittler/kap_14.md) | EEH        |
-| F07  | 11.mar  12:15 - 14:00  | UB 132 Aud  | [Kap 3: Markeder (Simultan)](kapittler/kap_03.md) | EEH        |
+| F07  | 11.mar  12:15 - 14:00  | UB 132 Aud  | [Kap 3: Markeder (Simultan)](kapittler/kap_03.md) | CRA        |
+| F08  | 18.mar  12:15 - 14:00  | UB 132 Aud  | [Kap 3: Markeder (Simultan)](kapittler/kap_03.md) | EEH        |
 | S02  | 23.mar  10:15 - 12:00  | HHT 02.218  | Kap 5 & 14: Seminar gruppe 1 | CRA        |
 | S02  | 23.mar  14:15 - 16:00  | HHT 02.216  | Kap 5 & 14: Seminar gruppe 2 | CRA        |
-| F08  | 15.apr  12:15 - 14:00  | UB 132 Aud  | [Kap 6: Markeder (Sekvensiell)](kapittler/kap_06.md) | EEH        |
+| F09  | 15.apr  12:15 - 14:00  | UB 132 Aud  | [Kap 6: Markeder (Sekvensiell)](kapittler/kap_06.md) | EEH        |
 | S03  | 20.apr  10:15 - 12:00  | HHT 02.218  | Kap 3 & 6: Seminar gruppe 1 | CRA        |
 | S03  | 21.apr  14:15 - 16:00  | HHT 02.119  | Kap 3 & 6: Seminar gruppe 2 | CRA        |
-| F09  | 22.apr  12:15 - 14:00  | UB 132 Aud  | Ekstra |        |
-| F10  | 29.apr  12:15 - 14:00  | UB 132 Aud  | Ekstra |        |
+| F10  | 22.apr  12:15 - 14:00  | UB 132 Aud  | Ekstra |        |
+| F11  | 29.apr  12:15 - 14:00  | UB 132 Aud  | Ekstra |        |
 |   | 20.mai  12:15 - 14:00 |  | **Eksamen** |         |
 
 
