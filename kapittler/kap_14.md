@@ -19,12 +19,10 @@ Dette kapittelet analyserer strategiske situasjoner der de samme aktørene møte
 ## Videoressurser
 
 
-## Podcast
-
 
 
 ## Forlesningslides
 
-
+[Forelesning](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=4032382)
 
 
