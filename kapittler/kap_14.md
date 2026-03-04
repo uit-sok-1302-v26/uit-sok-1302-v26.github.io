@@ -47,6 +47,6 @@ Denne videoen introduserer folk theorem, et sentralt resultat i teorien om gjent
 
 ## Forlesningslides
 
-[Forelesning](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=4032382)
+[Forelesning slides](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=4032613)
 
 
