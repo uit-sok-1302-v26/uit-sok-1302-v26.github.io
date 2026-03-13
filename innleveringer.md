@@ -42,7 +42,7 @@ Det gis ikke utsettelser på enkeltquizer. Samtidig er systemet robust: hvis der
 
 ## Gruppearbeid
 
-Det andre arbeidskravet er et gruppearbeid, gjennomført i grupper på **2–5 studenter**. Oppgaven deles ut **12. mars**, med innlevering **26. mars kl. 14:00**.
+Det andre arbeidskravet er et gruppearbeid, gjennomført i grupper på **2–5 studenter**. Oppgaven deles ut **13. mars**, med innlevering **27. mars kl. 14:00**.
 
 Målet med gruppearbeidet er at dere skal:
 - jobbe aktivt med spillteoretiske modeller
