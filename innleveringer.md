@@ -34,10 +34,10 @@ Det gis ikke utsettelser på enkeltquizer. Samtidig er systemet robust: hvis der
 |------|----------|------|------------------|
 | Quiz 1 | 1 | Introduksjon til spillteori | 14:00 17. feb |
 | Quiz 2 | 2 | Nash-likevekt og strategiske spill i normalform | 14:00 27. feb |
-| Quiz 3 | 4 | Blandede strategier og Nash-likevekt |  |
-| Quiz 4 | 3 | Anvendelser: frikonkurranse, monopol, Cournot og Bertrand |  |
-| Quiz 5 | 5 | Sekvensielle spill og delspillperfekt likevekt |  |
-| Quiz 6 | 6 | Anvendelser av sekvensielle spill og Stackelberg-konkurranse |  |
+| Quiz 3 | 4 | Blandede strategier og Nash-likevekt | 14:00 03. april |
+| Quiz 4 | 5 | Sekvensielle spill og delspillperfekt likevekt |  |
+| Quiz 5 | 6 | Anvendelser av sekvensielle spill og Stackelberg-konkurranse |  |
+| Quiz 6 | 3 | Anvendelser: frikonkurranse, monopol, Cournot og Bertrand |  |
 | Quiz 7 | 14 | Gjentatte spill og samarbeid |  |
 
 ## Gruppearbeid
