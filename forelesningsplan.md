@@ -29,7 +29,7 @@ Chris Rune Andersen (CRA)
 | F09  | 15.apr  12:15 - 14:00  | UB 132 Aud  | Gjennomgang av arbeidskrav | EEH        |
 | S03  | 20.apr  10:15 - 12:00  | HHT 02.218  | Kap 3 & 6: Seminar gruppe 1 | CRA        |
 | S03  | 21.apr  14:15 - 16:00  | HHT 02.119  | Kap 3 & 6: Seminar gruppe 2 | CRA        |
-| F10  | 29.apr  12:15 - 14:00  | UB 132 Aud  | Oppsummeringsforelesning |        |
+| F10  | 29.apr  12:15 - 14:00  | UB 132 Aud  | [Oppsummeringsforelesning](https://uit.instructure.com/courses/41522/files/folder/Forelesninger?preview=4101098) |        |
 |   | 20.mai  12:15 - 14:00 |  | **Eksamen** |         |
 
 
