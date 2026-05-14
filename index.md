@@ -50,4 +50,4 @@ Emnet har skriftlig skoleeksamen som gjennomføres i wiseflow. Alle oppgaver er 
 
 Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
 
-Eksamen blir avholdt 20. Mai 09:00-13:00. Mer info om eksamen kommer nærmere eksamensdatoen.
+Eksamen blir avholdt 20. Mai 09:00-13:00. Mer info om eksamen [her](Eksamen.md){:target="blank"}.   
