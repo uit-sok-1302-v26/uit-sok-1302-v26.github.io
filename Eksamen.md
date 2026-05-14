@@ -1,5 +1,55 @@
 # Informasjon om eksamen i SOK-1302 Spillteori og programmering
 
+Eksamen gjennomføres i WiseFlow med FlowLock. Det betyr at dere må ha med egen PC og lader til eksamen. Oppgavene blir gitt i selve flowen, og besvarelsen skal også leveres der. Besvarelsen kan enten skrives digitalt i FlowLock, leveres som håndskrevet vedlegg, eller være en kombinasjon av digital tekst og håndskrevne utregninger, figurer og grafer.
+
+Jeg har lagt ut en versjon av [eksamen uten oppgaver](https://uit.instructure.com/courses/41522/files/folder/Eksamen?preview=4118735). Denne inneholder forside, praktisk informasjon og formelark. Det er lurt å lese gjennom denne informasjonen på forhånd, slik at dere ikke trenger å bruke tid på dette under selve eksamen.
+
+I WiseFlow vil dere også ha tilgang til noen hjelpemidler, blant annet formelark, kalkulator og GeoGebra. I tillegg har jeg lagt ut en prøveeksamen med løsningsforslag. Løsningsforslaget er svært detaljert. Hensikten er å vise hvordan en veldig god og grundig besvarelse kan se ut, ikke at alle svar på eksamen nødvendigvis må være like lange.
+
+
+## Hva må dere ha med?
+
+Dere må ha med PC og lader.
+
+Dersom dere ønsker å skrive utregninger, figurer eller grafer for hånd, bør dere også ha med penn eller blyant. Papir deles ut på eksamen.
+
+Det er valgfritt å ta med egen kalkulator.
+
+
+## Hjelpemidler
+
+Hjelpemidler i WiseFlow er kalkulator, formelark, og GeoGebra. Det er valgfritt å ta med egen kalkulator.
+
+Andre digitale hjelpemidler, KI-verktøy, internettressurser, notater og lærebøker er ikke tillatt.
+
+## Innlevering
+
+Besvarelsen leveres i WiseFlow. Dersom dere bruker håndskrevne vedlegg, må disse nummereres tydelig, og dere må henvise til riktig vedlegg i besvarelsen.
+
+For eksempel:
+
+«Se vedlegg 2 for utregning og figur.»
+
+Fullstendig digital besvarelse er tillatt, men det kan være tidkrevende å lage matematikk, spilltrær, matriser og grafer digitalt. For mange vil det være raskere og mer oversiktlig å skrive slike deler for hånd.
+
+
+## Mer informasjon
+
+UiT har informasjon om digital skoleeksamen og FlowLock her:
+
+[UiT – Digital eksamen](https://uit.no/digitaleksamen)
+
+
+
+## Andre hjelpemidler
+[Prøveeksamen](https://uit.instructure.com/courses/41522/files/folder/Eksamen?preview=4117848)
+[Trenges oppgaver](https://uit.instructure.com/courses/41522/files/folder/Eksamen)
+
+
+
+
+
+
 Jeg har nå lagt ut:
 
 - Forside til eksamen
@@ -21,11 +71,9 @@ Papir til utregninger og kladd deles ut på eksamen.
 ## Hjelpemidler
 
 Tillatte hjelpemidler:
-
 - Kalkulator
 
 Ikke tillatt:
-
 - Egne notater
 - Egne ark eller papir
 - Lærebøker eller utskrifter
@@ -34,13 +82,11 @@ Ikke tillatt:
 ## FlowLock og WiseFlow
 
 Eksamen gjennomføres i FlowLock i WiseFlow. Dette betyr at:
-
 - PC-en låses under eksamen
 - Du har ikke tilgang til internett
 - Du har ikke tilgang til filer eller programmer på egen PC
 
 I WiseFlow vil dere ha tilgang til:
-
 - En innebygd kalkulator
 - GeoGebra
 
