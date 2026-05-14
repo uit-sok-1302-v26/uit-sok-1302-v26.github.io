@@ -1,11 +1,20 @@
 # Informasjon om eksamen i SOK-1302 Spillteori og programmering
 
+Jeg har nå lagt ut:
+
+- Forside til eksamen
+- Informasjonsside
+- Formelark
+
+Selve oppgavene er ikke publisert. Den finner du [her](https://uit.instructure.com/courses/41522/files/folder/Eksamen?preview=4118735).
+
+
 ## Hva må dere ha med?
 
 Dere må ha med:
 - PC
+- Lader til PC
 - Penn/blyant
-- Kalkulator (valgfritt)
 
 Papir til utregninger og kladd deles ut på eksamen.
 
@@ -65,3 +74,11 @@ Husk å oppgi endelige svar klart
 Les oppgaveteksten nøye før dere starter
 
 Forside, eksamensinformasjon og formelsamling ligger nå ute i Canvas/WiseFlow.
+
+# Prøveeksamen og forberedelse
+
+Jeg har også lagt ut en prøveeksamen med løsningsforslag. Det kan være lurt å se gjennom prøveeksamen før eksamen, både for å få en bedre forståelse av oppgavetyper og for å se hvordan svar kan struktureres. Dere finner oppgaven [her](https://uit.instructure.com/courses/41522/files/folder/Eksamen?preview=4117848).
+
+Det er også lurt å lese eksamensinformasjonen på forhånd. Da slipper dere å bruke tid på dette under selve eksamen. 
+
+Løsningsforslaget til prøveeksamen er svært detaljert. Det betyr ikke at alle eksamensbesvarelser må være like lange. Hensikten er å vise hvordan en svært god og grundig besvarelse kan se ut.
