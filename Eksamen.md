@@ -42,8 +42,10 @@ UiT har informasjon om digital skoleeksamen og FlowLock her:
 
 
 ## Andre hjelpemidler
+
 [Prøveeksamen](https://uit.instructure.com/courses/41522/files/folder/Eksamen?preview=4117848)
-[Trenges oppgaver](https://uit.instructure.com/courses/41522/files/folder/Eksamen)
+
+[Treningsoppgaver](https://uit.instructure.com/courses/41522/files/folder/Eksamen)
 
 
 
